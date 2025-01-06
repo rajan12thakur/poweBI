@@ -41,17 +41,17 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 
 ---
 
-## 🤝 **Contributing**
+ Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request for any enhancements.
 
 ---
 
-## 📝 **License**
+License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-### **Happy Analyzing!** 🎉
+
 
