@@ -31,7 +31,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 
 ---
 
-## 📈 **Dashboards Include**
+## 📈 **Dashboards Include*
 
 - **Total Sales Overview**
 - **Top Products and Categories**
