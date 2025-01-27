@@ -12,7 +12,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 
 --
 
-## 📂 **Contents
+# 📂 **Contents
 
 - **Power BI Reports**: `.pbix` files with ready-to-use dashboards.
 - **Datasets**: Sample sales data for analysis (if applicable).
