@@ -21,7 +21,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 
 --
 
-## 🚀 *Getting Started
+# 🚀 *Getting Started
 
 1. Clone the repository:
    ``bash
