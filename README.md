@@ -26,7 +26,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 1. Clone the repository:
    ``bash
    git clone https://github.com/your-username/saledataanalysis.git
-   ```
+   ``
 2. Open the `.pbix` file in Power BI Desktop.
 3. Refresh the data sources to link with your database or sample dataset.
 
