@@ -44,7 +44,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 
  Contributing
 
-Contributions are welcome! Fork the repository and submit a pull request for any enhancemen
+Contributions are welcome! Fork the repository and submit a pull request for any enhanceme
 
 
 
