@@ -8,7 +8,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 ## 📌 Features
 
 - **Interactive Dashboards**: Visualizations of key sales metrics, trends, and performance.
-- **Data Insights**: Analysis of sales by region, product category, customer demographics, et
+- **Data Insights**: Analysis of sales by region, product category, customer demographics, e
 - **Custom Filters**: Drill-down capabilities for detailed insights.
 
 -
