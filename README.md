@@ -36,7 +36,7 @@ Welcome to the **Sales Data Analysis** project! This repository contains Power B
 - **Top Products and Categories**
 - **Regional Sales Performance**
 - **Customer Demographics**
-- **Monthly and Quarterly Trends**
+- **Monthly and Quarterly Trends*
 
 
 
