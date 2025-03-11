@@ -1,4 +1,4 @@
-elcome to the **Sales Data Analysis** project! This repository contains Power BI dashboards and insights derived from sales data, helping businesses make data-driven decision
+lcome to the **Sales Data Analysis** project! This repository contains Power BI dashboards and insights derived from sales data, helping businesses make data-driven decision
 
 
 
