@@ -1,4 +1,4 @@
- Analysis project! This repository contains Power BI dashboards and insights derived from sales data, helping businesses make 
+ Analysis project! This repository contains Power BI dashboards and insights derived from sales data, helping businesses mak
 
 
 
