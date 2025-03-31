@@ -2,7 +2,7 @@ Analysis project! This repository contains Power BI dashboards and insights deri
 
 
 
-## 📌 Features
+## 📌 
 
 - *Interactive Dashboards**: Visualizations of key sales metrics, trends, and performance.
 - **Data Insights**: Analysis of sales by region, product category, customer demographics, 
