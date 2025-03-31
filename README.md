@@ -10,7 +10,7 @@ Analysis project! This repository contains Power BI dashboards and insights deri
 
 -
 
-# 📂 *Contents
+# 📂 *
 
 - **Power BI Reports**: `.pbix` files with ready-to-use dashboards.
 - **Datasets**: Sample sales data for analysis (if applicable).
