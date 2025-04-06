@@ -1,4 +1,4 @@
-Analysis project! This repository contains Power BI dashboards and insights derived 
+Analysis project! This repository contains Power BI dashboards and insights 
 
 
 
