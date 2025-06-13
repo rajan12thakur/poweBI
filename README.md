@@ -1,8 +1,7 @@
 
 
 
-
-- *Interactive Dashboards**: Visualizations of 
+ Visualizations of 
 - **Data Insights**: Analysis of sales by region, product category, customer demographics, 
 - **Custom Filters**: Drill-down capabilities for detailed insights.
 
