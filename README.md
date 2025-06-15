@@ -2,7 +2,7 @@
 
 
 
-- **Data Insights**: Analysis of sales by region, product category, customer demographics, 
+- **Data Insights**: Analysis of sales by region, product category, customer 
 - **Custom Filters**: Drill-down capabilities for detailed insights.
 
 -
